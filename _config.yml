@@ -1,0 +1,11 @@
+# Site settings
+title: 一颗橙子
+sub_title: ，an orange
+about: about
+email: dd@chengz.org
+description: > # chengdd
+url: "http://chengz.org" 
+
+
+# Build settings
+markdown: kramdown
