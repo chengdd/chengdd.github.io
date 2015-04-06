@@ -76,7 +76,7 @@ h1, h2, h3, h4, h5, h6 {
   float: left; }
 .site-title, .site-title:visited {color: white }
 .site-sub-title{float:left;vertical-align: bottom;line-height: 51px;margin-top: 5px;color:white;}
-.trigger{float: right;line-height: 56px;}
+.trigger{float: right;line-height: 56px;margin-top:2px;}
 .trigger a,.trigger a:hover,.trigger a:visited{color:white;}
 
 /**
