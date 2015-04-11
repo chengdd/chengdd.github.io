@@ -1,7 +1,0 @@
----
-layout: post
-title:  "关于技术 "
-date:   2015-04-07 0:23:38
-categories: other
----
-请！坚持,好吗？
