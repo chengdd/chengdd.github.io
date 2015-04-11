@@ -2,7 +2,7 @@
 layout: post
 title:  "jekyll 安装"
 date:   2015-04-11 21:12:00
-categories: other
+categories: jekyll
 ---
 1.安装ruby
 

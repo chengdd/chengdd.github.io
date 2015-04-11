@@ -2,7 +2,7 @@
 layout: post
 title:  "hello world"
 date:   2015-04-04 23:01:38
-categories: other
+categories: test
 ---
 {% highlight java %}
 System.out.print("hello world")
