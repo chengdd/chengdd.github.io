@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "ubuntu ekyll 安装"
+title:  "ubuntu jekyll 安装"
 date:   2015-04-11 21:12:00
 categories: jekyll
 ---
