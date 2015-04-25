@@ -3,8 +3,10 @@
   <div class="wrapper">
 
     <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
-   <span class="site-sub-title"> {{site.sub_title}} </span>
+    <span class="site-sub-title"> {{site.sub_title}} </span>
+    <span class="site-sub-title"> <a href="">,music</a> </span>
      <div class="trigger">
+
         {% for page in site.pages %}
           {% if page.title %}
           <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ site.about }}</a>
