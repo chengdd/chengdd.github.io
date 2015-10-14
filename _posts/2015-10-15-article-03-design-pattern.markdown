@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "准备更新关于设计模式的文章"
-date:   2015-04-04 23:01:38
+date:   2015-10-15 10:01:38
 categories: test
 ---
 
