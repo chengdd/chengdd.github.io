@@ -12,6 +12,18 @@ sudo apt-get install ruby ruby-dev
 
 2.更换ruby源
 
+
+
+
+
+~~~
+ sudo gem sources –remove https://rubygems.org/
+ sudo gem sources –remove http://rubygems.org/
+ sudo gem sources -a http://ruby.taobao.org/
+~~~
+
+或者:
+
 ~~~
 vim ~/.gemrc
 在:sources:行下删除
@@ -19,14 +31,6 @@ vim ~/.gemrc
 - http://rubygems.org/
 增加：
 - http://ruby.taobao.org/
-~~~
-
-或者:
-
-~~~
- sudo gem sources –remove https://rubygems.org/
- sudo gem sources –remove http://rubygems.org/
- sudo gem sources -a http://ruby.taobao.org/
 ~~~
 
 3.安装javascript运行环境
